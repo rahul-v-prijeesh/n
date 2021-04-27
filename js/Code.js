@@ -14,12 +14,12 @@ fill("white")
 textSize(15)
 text("C U T N I F O N", 700,140)
 fill("lightblue")
-text("Hint: Always changing, not constant !!", 700,160)
+text("Hint: performs a particular task !!", 700,160)
 
 fill("white")
 textSize(15)
 text("A T A D A S B A", 100,200)
 fill("lightblue")
-text("Hint: Always changing, not constant !!", 100,220) 
+text("Hint: Stores all Information !!", 100,220) 
 
 }
